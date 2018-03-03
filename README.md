@@ -1,8 +1,12 @@
 # NRGLA
 Shit we need
+
 • A map
+
 • Ammo for cw
+
 • Jobs
+
 • Shipments
 
 
