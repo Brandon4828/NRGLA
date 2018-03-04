@@ -3,7 +3,7 @@ Shit we need
 
 • A map
 
-• Ammo for cw
+• Ammo for cw (pls i don't want to do this)
 
 • Jobs
 
