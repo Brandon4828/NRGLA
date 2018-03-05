@@ -125,3 +125,4 @@ DarkRP.createAmmoType("cw_ammo_12gauge", {
     price = 20,
     amountGiven = 10
 	
+})
