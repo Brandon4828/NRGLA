@@ -94,3 +94,34 @@ DarkRP.createAmmoType("cw_ammo_45acp", {
     amountGiven = 30
 
 })		
+
+DarkRP.createAmmoType("cw_ammo_762x51", {
+    name = "7.62x51 Ammo,
+    model = "models/Items/BoxMRounds.mdl",
+    price = 25,
+    amountGiven = 30
+
+})
+
+DarkRP.createAmmoType("cw_ammo_9x17", {
+    name = "9x17 Ammo,
+    model = "models/Items/BoxMRounds.mdl",
+    price = 15,
+    amountGiven = 30
+		
+})
+
+DarkRP.createAmmoType("cw_ammo_545x39", {
+    name = "5.45x39 Ammo,
+    model = "models/Items/BoxMRounds.mdl",
+    price = 25,
+    amountGiven = 30
+
+})
+
+DarkRP.createAmmoType("cw_ammo_12gauge", {
+    name = "12 Gauge,
+    model = "models/Items/BoxMRounds.mdl",
+    price = 20,
+    amountGiven = 10
+	
