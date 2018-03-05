@@ -86,3 +86,11 @@ DarkRP.createAmmoType("cw_ammo_44magnum", {
     price = 10,
     amountGiven = 16
 })
+
+DarkRP.createAmmoType("cw_ammo_45acp", {
+    name = ".45 ACP Ammo",
+    model = "models/Items/BoxMRounds.mdl",
+    price = 15,
+    amountGiven = 30
+
+})		
