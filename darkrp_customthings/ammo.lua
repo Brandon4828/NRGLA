@@ -80,3 +80,9 @@ DarkRP.createAmmoType("smg1", {
 
 Add new ammo types under the next line!
 ---------------------------------------------------------------------------]]
+DarkRP.createAmmoType("cw_ammo_44magnum", {
+    name = "Rifle ammo",
+    model = "models/Items/BoxMRounds.mdl",
+    price = 10,
+    amountGiven = 16
+})

@@ -17,3 +17,15 @@ http://wiki.darkrp.com/index.php/DarkRP:CustomShipmentFields
 
 Add shipments and guns under the following line:
 ---------------------------------------------------------------------------]]
+
+DarkRP.createShipment("Serbu Shorty", {
+    model = "models/weapons/w_pist_deagle.mdl",
+    entity = "cw_shorty",
+    price = 215,
+    amount = 10,
+    separate = true,
+    pricesep = 215,
+    noship = true,
+    allowed = {TEAM_GUNMANUFACTURER},
+    category = "Shotguns",
+})
