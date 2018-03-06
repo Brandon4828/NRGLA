@@ -1,0 +1,48 @@
+Stalker models for jobs and shet
+
+
+AddPlayerModel( "Bandit Boss",	"models/stalkertnb/banditboss1.mdl" )
+AddPlayerModel( "Bandit 1",	"models/stalkertnb/bandit1.mdl" )
+AddPlayerModel( "Bandit 2",	"models/stalkertnb/bandit2.mdl" )
+AddPlayerModel( "Bandit 3",	"models/stalkertnb/bandit3.mdl" )
+AddPlayerModel( "Bandit 4",	"models/stalkertnb/bandit4.mdl" )
+
+AddPlayerModel( "Bandit Female 6",	"models/stalkertnb/bandit_female6.mdl" )
+AddPlayerModel( "Bandit Hour",		"models/stalkertnb/bandit_hour.mdl" )
+AddPlayerModel( "Bandit Overwatch",	"models/stalkertnb/bandit_overwatch.mdl" )
+AddPlayerModel( "Bandit Reager",	"models/stalkertnb/bandit_reager.mdl" )
+
+
+AddPlayerModel( "Freedom boss", "models/stalkertnb/exo_freedompracs.mdl" )
+AddPlayerModel( "PSZ9d freedom", "models/stalkertnb/psz9d_free3.mdl" )
+AddPlayerModel( "Exo Freedom",	"models/stalkertnb/exo_free.mdl" )
+AddPlayerModel( "Rad Freedom",	"models/stalkertnb/rad_free.mdl" )
+AddPlayerModel( "Seva Freedom",	"models/stalkertnb/seva_free.mdl" )
+
+AddPlayerModel( "Loner",	"models/stalkertnb/sunrise_lone.mdl" )
+AddPlayerModel( "Seva Loner",	"models/stalkertnb/seva_lone.mdl" )
+AddPlayerModel( "Exo Loner",	"models/stalkertnb/exo_lone.mdl" )
+
+AddPlayerModel( "PSZ9d Duty 2",	"models/stalkertnb/psz9d_duty2.mdl" )
+AddPlayerModel( "Seva Duty",	"models/stalkertnb/seva_duty.mdl" )
+AddPlayerModel( "PSZ9d Duty 4",	"models/stalkertnb/psz9d_duty4.mdl" )
+AddPlayerModel( "Exo scat Duty",	"models/stalkertnb/exo_skat_duty.mdl" )
+AddPlayerModel( "Exo scat heavy Duty",	"models/stalkertnb/exo_skat_duty_heavy.mdl" )
+
+AddPlayerModel( "PSZ9d Monolith4",	"models/stalkertnb/psz9d_mono4.mdl" )
+AddPlayerModel( "PSZ9d Monolith2",	"models/stalkertnb/psz9d_mono2.mdl" )
+AddPlayerModel( "Rad Monolith Boss",	"models/stalkertnb/rad_monoboss.mdl" )
+AddPlayerModel( "Exo Monolith",	"models/stalkertnb/exo_mono.mdl" )
+AddPlayerModel( "Seva Monolith Heavy",	"models/stalkertnb/seva_monolith_heavy.mdl" )
+
+
+AddPlayerModel( "Exo Mercenary",	"models/stalkertnb/exo_skat_merc.mdl" )
+AddPlayerModel( "Sunrise Mercenary",	"models/stalkertnb/sunrise_merc.mdl" )
+AddPlayerModel( "CS2 Googles",	"models/stalkertnb/cs2_goggles.mdl" )
+
+AddPlayerModel( "Army Exo Berill",	"models/stalkertnb/exo_berill.mdl" )
+AddPlayerModel( "Army Seva",	"models/stalkertnb/beri_seva.mdl" )
+AddPlayerModel( "Army Mili",		"models/stalkertnb/beri_mili.mdl" )
+AddPlayerModel( "Army Rogue",	"models/stalkertnb/Beri_rogue.mdl" )
+AddPlayerModel( "Army Rogue CS2",	"models/stalkertnb/beri_rogue_cs2.mdl" )
+AddPlayerModel( "Army Rogue Helmet",	"models/stalkertnb/beri_rogue_helmet.mdl" )
