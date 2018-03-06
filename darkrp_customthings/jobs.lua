@@ -71,6 +71,37 @@ TEAM_BANDIT = DarkRP.createJob("Scavenger", {
     category = "S.T.A.L.K.E.R.S",
 })
 
+TEAM_DOCTOR = DarkRP.createJob("Doctor", {
+    color = Color(255, 104, 99, 255),
+	-- not sure on the last value if that will matter at all within color
+    model = {""},
+	-- if anybody could add a model that would be nice
+    description = [[Presumably without a license, you are a person who treats other people with shipped in medical supplies.]],
+    weapons = {""},
+    command = "Doctor",
+    max = 2,
+    salary = 30,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "S.T.A.L.K.E.R.S",
+})
+
+TEAM_ENGINEER = DarkRP.createJob("Engineer", {
+    color = Color(125, 166, 120, 255),
+	-- not sure on the last value if that will matter at all within color
+    model = {""},
+	-- if anybody could add a model that would be nice
+    description = [[You are a person advanced in the field of engineering. You can sell things such as mines and turrets.]],
+    weapons = {""},
+    command = "Engineer",
+    max = 2,
+    salary = 45,
+    admin = 0,
+    vote = false,
+    hasLicense = false,
+    category = "S.T.A.L.K.E.R.S",
+})
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
